@@ -34,6 +34,7 @@ The dataset contains sales-related information such as:
 - Revenue by Product Category
 - Top 10 Products by Sales
 - Region-wise Sales Distribution
+- Barplot for region and revenue
 
 ## 🚀 Key Insights
 - Identified peak sales months
