@@ -29,7 +29,8 @@ The dataset contains sales-related information such as:
 - Revenue contribution by category
 - Region-wise sales performance
 - region summary and visualize throug plot
--  getting top 10 products
+- getting top 10 products
+- checking statewise profit and visualise
 
 ## 📈 Visualizations
 - Monthly Sales Trend
