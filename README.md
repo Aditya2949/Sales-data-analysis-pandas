@@ -31,6 +31,7 @@ The dataset contains sales-related information such as:
 - region summary and visualize throug plot
 - getting top 10 products
 - checking statewise profit and visualise
+- Quantity vs profit check
 
 ## 📈 Visualizations
 - Monthly Sales Trend
